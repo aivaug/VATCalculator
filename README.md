@@ -19,5 +19,5 @@ Project created using .NET 5
 > `11> GO`  
   
    
-- To prepare backend environment you have to write in console:
+- To prepare project environment you have to write in console:
 > `update-database`
